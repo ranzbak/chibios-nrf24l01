@@ -2,7 +2,7 @@ Pinout of STM32F103RBT6 to the NRF24l01
 
 SPI output to the NRF24L01 radio module
 =========================================
-PA4		SPI	SCN
+PA4		SPI SCN
 PA5		SPI SCK
 PA6		SPI MISO
 PA7		SPI MOSI
